@@ -21,6 +21,6 @@ para ejecutar:
 > elixir hola_mundo.exs
 ```
 
-Los Archivos *ex* estan destinados para compilación y los archivos *exs para **scripting**.
+Los Archivos *ex* estan destinados para compilación y los archivos *exs* para **scripting**.
 
 [Documentación de Elixir](https://hexdocs.pm/elixir/master/Kernel.html)
